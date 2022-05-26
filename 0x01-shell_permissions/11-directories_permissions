@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R oa+x ./
+find ./ -type d -exec chmod uo+x {} \;
