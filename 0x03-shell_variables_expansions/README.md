@@ -15,3 +15,4 @@ script to print number with 2 decimal places
 script to change decimal to hexadecimal
 scritp to encode and decode text using the rot13 encryption
 script to print every other line fro the input starting with the first
+script that adds the two numbers stored in the environment variables water and stir and prints the result
