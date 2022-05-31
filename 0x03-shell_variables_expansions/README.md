@@ -11,3 +11,4 @@ script to divide number using a variable
 script to print the power of breath by love
 script to convert a number from base 2 to base 10
 script to print all letters compinations
+script to print number with 2 decimal places
