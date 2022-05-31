@@ -10,3 +10,4 @@ script to print the result of the addition of 128 with the value stored in the e
 script to divide number using a variable
 script to print the power of breath by love
 script to convert a number from base 2 to base 10
+script to print all letters compinations

@@ -1,0 +1,2 @@
+#!/bin/bash
+prinf "%s\n" {a..z}{a..} | grep -v oo
