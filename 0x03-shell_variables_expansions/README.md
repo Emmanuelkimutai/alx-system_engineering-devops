@@ -1,1 +1,5 @@
-creating alias
+script taht creates an alias
+script that print hello user
+script to add a path to action
+script that counts the number of directories in the path
+script that list environment variables
