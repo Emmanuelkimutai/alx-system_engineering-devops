@@ -14,3 +14,4 @@ Write a Bash script that displays numbers from 1 to 20 and:
 		displays 17 and then bad luck from Italy for the 17th loop iteration
 
 Write a Bash script that display the time for 12 hours and 59 minutes
+Write a Bash script that displays the content of the curent directory, in a list format
