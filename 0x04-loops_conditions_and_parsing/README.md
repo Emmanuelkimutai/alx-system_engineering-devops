@@ -16,3 +16,7 @@ Write a Bash script that displays numbers from 1 to 20 and:
 Write a Bash script that display the time for 12 hours and 59 minutes
 Write a Bash script that displays the content of the curent directory, in a list format
 Write a Bash script that gives you information about the school file
+Write a bash scripts that displays numbers from 1 to 100.
+	Display FizzBuzz when multiple of 3 and 5.
+	Fizz when multiple of 3.
+	Buzz when multiple of 5 else display number.
