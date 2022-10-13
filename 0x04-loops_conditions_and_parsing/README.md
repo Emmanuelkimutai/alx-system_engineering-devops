@@ -15,3 +15,4 @@ Write a Bash script that displays numbers from 1 to 20 and:
 
 Write a Bash script that display the time for 12 hours and 59 minutes
 Write a Bash script that displays the content of the curent directory, in a list format
+Write a Bash script that gives you information about the school file
