@@ -9,3 +9,4 @@ Write a Bash script that displays:
 	To infinity and beyond indefinetly
 	with a sleep 2 in between each iteration
 	I am invincible!!! when receiving a SIGTERM signal
+Write a Bash script that kills the process 7-highlander
